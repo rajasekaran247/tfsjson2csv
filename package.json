@@ -1,0 +1,28 @@
+{
+  "name": "tfsjson2csv",
+  "version": "1.0.0",
+  "description": "json2csv based on json2csv",
+  "main": "tfsjson2csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasekaran247/tfsjson2csv.git"
+  },
+  "keywords": [
+    "json2csv",
+    "based",
+    "on",
+    "json2csv"
+  ],
+  "author": "rajasekaran@247lifetime.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajasekaran247/tfsjson2csv/issues"
+  },
+  "homepage": "https://github.com/rajasekaran247/tfsjson2csv#readme",
+  "dependencies": {
+    "json2csv": "^3.11.1"
+  }
+}
